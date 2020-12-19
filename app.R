@@ -6,7 +6,7 @@ library(xts)
 library(dygraphs)
 library(shinythemes)
 library(shinycssloaders)
-##Yo
+
 #UI
 ui <- fluidPage(theme = shinytheme("cerulean"),
     
